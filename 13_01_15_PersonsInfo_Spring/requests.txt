@@ -1,0 +1,9 @@
+AddPerson 1234 Vasya 1997
+AddPerson 1235 Vasya 2001
+AddPerson 1236 Serg 1997
+GetPersonsById 1234
+GetPersonsByName Vasya
+GetPersonsByYear 1997 1997
+RemovePerson 1234
+GetPersonsByYear 1997 1997
+GetPersonsById 1234
